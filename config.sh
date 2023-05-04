@@ -7,7 +7,7 @@ export BRANCH="twrp-9.0" # the branch of manifest
 
 # about your device
 export DEVICE="RG353P" # codename used in device tree
-export DT_LINK="https:/https://github.com/TheWildJames/RG353V_TWRP" # device tree link
+export DT_LINK="https://github.com/TheWildJames/RG353V_TWRP" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="rockchip" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
