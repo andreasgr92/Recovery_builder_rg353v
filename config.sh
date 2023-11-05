@@ -6,7 +6,7 @@ export MANIFEST="https://github.com/minimal-manifest-twrp/platform_manifest_twrp
 export BRANCH="twrp-9.0" # the branch of manifest
 
 # about your device
-export DEVICE="RG353P" # codename used in device tree
+export DEVICE="RG353" # codename used in device tree
 export DT_LINK="https://github.com/andreasgr92/RG353_Tree" # device tree link
 export DT_BRANCH="main" # device tree branch
 export VENDOR="rockchip" # device manufacturer or vendor
